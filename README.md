@@ -64,12 +64,12 @@ When compiling heavy C++ codebases or spinning up cluster-wide LLM instances, th
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ken00H&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true&border_radius=12" alt="Jamal's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ken00H&layout=compact&theme=github_dark_dimmed&hide=html,css&hide_border=true&border_radius=12" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ken00H&show_icons=true&theme=transparent&count_private=true&hide_border=true&border_radius=12" alt="Jamal's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ken00H&layout=compact&theme=transparent&hide=html,css&hide_border=true&border_radius=12" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ken00H&theme=github_dark_dimmed&hide_border=true&border_radius=12" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ken00H&theme=transparent&hide_border=true&border_radius=12" alt="GitHub Streak Stats"/>
 </p>
 
 📫 **How to reach me:** Feel free to explore my repositories or open an issue/PR if you're interested in multi-agent networks, CUDA configuration tricks, or Unreal Engine plugin mechanics.
