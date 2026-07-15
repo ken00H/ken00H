@@ -72,8 +72,4 @@ When compiling heavy C++ codebases or spinning up cluster-wide LLM instances, th
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ken00H&theme=github_dark_dimmed&hide_border=true&border_radius=12" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ken00H&theme=github-dark-dimmed&hide_border=true&radius=12" alt="Contribution Graph"/>
-</p>
-
 📫 **How to reach me:** Feel free to explore my repositories or open an issue/PR if you're interested in multi-agent networks, CUDA configuration tricks, or Unreal Engine plugin mechanics.
