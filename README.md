@@ -64,8 +64,8 @@ When compiling heavy C++ codebases or spinning up cluster-wide LLM instances, th
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ken00H&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true&border_radius=12" alt="Jamal's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ken00H&layout=compact&theme=dark&bg_color=00000000&hide=html,css&hide_border=true&border_radius=12" alt="Top Languages" height="180px"/>
+  <img src="https://raw.githubusercontent.com/ken00H/github-stats/generated/overview.svg" alt="Jamal's GitHub Stats" height="180px"/>
+  <img src="https://raw.githubusercontent.com/ken00H/github-stats/generated/languages.svg" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
